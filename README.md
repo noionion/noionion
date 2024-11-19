@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 #### Statistical data
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2X-ercha&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noionion&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
 
-![](https://github-readme-stats.vercel.app/api?username=2X-ercha&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=noionion&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true)
 
 #### Visitors (Since 2020/12/19)
 
