@@ -1,7 +1,7 @@
 ### Hello Github
 
 <!--
-**2X-ercha/2X-ercha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**noionion/noionion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ✨ 然后这里是我的博客啦！[点这里进去踩一踩！](https://noionion.top)，主要会更一些自己的设计，有时还会做点教程和写写日记~~
 
-✨ ~~成功转专业啦，信科学生啦！~~ ~~现在是物联网专业学生噻，奔着嵌入式方向越跑越远！~~ emmm嵌入式是什么玩意，来玩 cpu 吧
+✨ ~~成功转专业啦，信科学生啦！~~ ~~现在是物联网专业学生噻，奔着嵌入式方向越跑越远！~~ emmm嵌入式是什么玩意，来玩 cpu 吧（现在主要做 riscv privilege 和 AIA 相关内容）
+
+✨ 工作基本上快一年了，github 大部分时间用来提 issue
 
 ✨ 欢迎到博客里调戏我！
 
