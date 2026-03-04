@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <img align="center" src="https://readme-stats.mufanc.xyz/api/top-langs/?username=noionion&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" />
+  <img align="center" src="https://count.getloli.com/get/@2X-ercha?theme=gelbooru" />
   <br/>
 </p>
 
@@ -52,4 +53,3 @@ Here are some ideas to get you started:
   <br />
 </p>
 
-![](https://count.getloli.com/get/@2X-ercha?theme=gelbooru)
